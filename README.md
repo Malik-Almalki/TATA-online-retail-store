@@ -30,20 +30,8 @@ Note: The United Kingdom was excluded from this analysis at the request of the s
 
 ## Dashboards:
 
-
-
-
-![1](https://github.com/user-attachments/assets/ba0de7ef-510f-4d65-9817-3034cf73037d)
-
-![2](https://github.com/user-attachments/assets/7a888400-c0fe-47f0-a97a-5e770f0a58e8)
-
-
-
-
-
-
-
-
+![1](https://github.com/user-attachments/assets/dc62ad43-9c01-4aca-976b-f85573784e84)
+![2](https://github.com/user-attachments/assets/f25b600c-7948-4033-bb3b-b8625eacb701)
 
 
 ## Conclusion:
